@@ -9,29 +9,9 @@
         "useCustom": true
     },
     "streamInfo": {
-        "streamURL": "",
-        "isStream": false
+        "streamURL": "https://cdn.jsdelivr.net/gh/bbartadiga/Not_Enough_Space_FM@master/not_enough_space.m3u",
+        "isStream": true
     },
-    "order": [
-        "Loveless (feat. Kellin Quinn).mp3",
-        "Devil Left Me On Read.mp3",
-        "Primitive.mp3",
-        "This House You Built.mp3",
-        "Cascade (feat. Devin Barrus).mp3",
-        "No Way Out.mp3",
-        "Sew My Eyes.mp3",
-        "Eye 4 an Eye.mp3",
-        "Distorted.mp3",
-        "New Age Cannibal.mp3",
-        "Goth Girl Dinner.mp3",
-        "Nightmares.mp3",
-        "End This Way.mp3",
-        "Waiting 4 U.mp3",
-        "Drifting.mp3",
-        "Not Enough Space - Don't Let Go.mp3",
-        "Solace In Silence.mp3",
-        "Don't Be Scared.mp3",
-        "Tear Me Apart.mp3"
-    ],
+    "order": [],
     "shuffle": true
 }
